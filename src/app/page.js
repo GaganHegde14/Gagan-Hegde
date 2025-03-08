@@ -167,7 +167,7 @@ export default function Home() {
               Education
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
-              B.E. in Information Science (4th semester) with a CGPA of 9.4.
+              B.E. in Information Science (4th semester) with a CGPA of 9.4
             </p>
           </div>
 
