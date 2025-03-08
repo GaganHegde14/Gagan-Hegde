@@ -96,17 +96,17 @@ const Footer = () => {
               Feel free to reach out to me for any questions or opportunities.
             </p>
             <p className="text-gray-600 dark:text-gray-400">
-              Email: your.email@example.com
+              Email: gbhegde14@gmail.com
             </p>
             <p className="text-gray-600 dark:text-gray-400">
-              Location: Your City, Country
+              Location: Bangalore, India
             </p>
           </div>
         </div>
 
         <div className="border-t border-gray-200 dark:border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-600 dark:text-gray-400">
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Gagan Hegde . All rights reserved.
           </p>
           <p className="text-gray-500 dark:text-gray-500 text-sm mt-2">
             Built with Next.js, React, Node.js, Express, and MongoDB
