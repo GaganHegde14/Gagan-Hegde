@@ -135,7 +135,7 @@ export default function ContactPage() {
                     Location
                   </h3>
                   <p className="text-gray-600 dark:text-gray-400">
-                    Your City, Country
+                    Bangalore, India
                   </p>
                 </div>
               </div>
@@ -152,7 +152,7 @@ export default function ContactPage() {
                     href="mailto:your.email@example.com"
                     className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
                   >
-                    your.email@example.com
+                    gbhegde14@gmail.com
                   </a>
                 </div>
               </div>
@@ -169,7 +169,7 @@ export default function ContactPage() {
                     href="tel:+1234567890"
                     className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
                   >
-                    +1 (234) 567-890
+                    +91 8310960257
                   </a>
                 </div>
               </div>
@@ -181,7 +181,7 @@ export default function ContactPage() {
               </h3>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/GaganHegde14"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary text-gray-700 dark:text-gray-300 p-3 rounded-full transition-colors"
@@ -189,7 +189,7 @@ export default function ContactPage() {
                   <FaGithub className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/gaganhegde14/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary text-gray-700 dark:text-gray-300 p-3 rounded-full transition-colors"
@@ -197,7 +197,7 @@ export default function ContactPage() {
                   <FaLinkedin className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://twitter.com/yourusername"
+                  href="https://x.com/Gaganhede"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-200 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary text-gray-700 dark:text-gray-300 p-3 rounded-full transition-colors"
@@ -318,11 +318,6 @@ export default function ContactPage() {
       </Section>
 
       {/* Map Section (Placeholder) */}
-      <Section className="bg-white dark:bg-gray-900 py-12">
-        <div className="bg-gray-200 dark:bg-gray-700 h-80 rounded-lg flex items-center justify-center text-gray-400 dark:text-gray-500">
-          Map Placeholder
-        </div>
-      </Section>
     </MainLayout>
   );
 }
