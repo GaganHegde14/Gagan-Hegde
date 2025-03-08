@@ -146,7 +146,7 @@ export default function AboutPage() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
               <Button
-                href="#"
+                href="https://gaganhegde14.github.io/Resume/"
                 target="_blank"
                 rel="noopener noreferrer"
                 leftIcon={<FaDownload />}
