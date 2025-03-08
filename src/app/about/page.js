@@ -120,7 +120,7 @@ export default function AboutPage() {
           >
             <div className="relative w-64 h-64 md:w-75 md:h-75 mx-auto rounded-full overflow-hidden border-4 border-primary shadow-xl">
               <Image
-                src="/images/profile/IMG_2457.jpg"
+                src="/images/profile/IMG_2457.JPG"
                 alt="Gagan Hegde"
                 fill
                 style={{ objectFit: "cover" }}
